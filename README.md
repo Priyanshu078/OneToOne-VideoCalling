@@ -1,6 +1,9 @@
-# video_calling
+# One to One Video Calling App
 
-A new Flutter project.
+This is a flutter application which is developed using Agora SDK for flutter
+
+Agora provides an easy to use SDK which we can use to make our own video calling, interactive classroom, live streaming, can record audio and video nad much more
+
 
 ## Getting Started
 
